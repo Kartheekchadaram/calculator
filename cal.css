@@ -1,0 +1,25 @@
+body{
+		text-align: center;
+		background-color: green;
+		margin-top: 200px;
+	}
+	table{
+		margin-left: 650px;
+		margin-bottom: 100px;
+		background-color:brown; 
+		height: 100px;
+		width: 100px;
+
+
+	}
+	input{
+		margin-top:30px; 
+		border: 5px black;
+		background-color: yellow;
+	}
+	h1{
+		color: blue;
+	}
+	button{
+		color: green;
+	}
